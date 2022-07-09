@@ -1,0 +1,14 @@
+{
+  "name": "04contact-app",
+  "version": "1.0.0",
+  "description": "build simple contact app with js from scartch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "sabar subakti",
+  "license": "ISC"
+}
